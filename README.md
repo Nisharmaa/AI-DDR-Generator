@@ -27,3 +27,6 @@ It automatically generates a structured DDR (Detailed Diagnostic Report).
 5. Recommended Actions
 6. Additional Notes
 7. Missing Information
+
+##Loom Demo Video:
+https://www.loom.com/share/bd719f65c9b84cef84e758613b4c69d0
